@@ -1,5 +1,3 @@
-# thankyou-page
-This is the link to the portfolio website
 <!DOCTYPE html>
 <html lang="en">
   <head>
